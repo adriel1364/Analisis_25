@@ -1,5 +1,5 @@
 # Módulo Analista de Datos 2025
-Repositorio creado para subir las evidencias del Modulo de Analista de Datos de la Tecnicatura Superior en Ciencia de Datos del ISPC.
+Repositorio creado para para la gestión del trabajo en grupo y la carga de evidencias del Modulo de Analista de Datos de la Tecnicatura Superior en Ciencia de Datos del ISPC.
 
 Primer cuatrimestre – Año 2025
 Docentes: 
