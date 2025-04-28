@@ -11,7 +11,7 @@ Repositorio creado para la gestión del trabajo en grupo y la carga de evidencia
 
 ## TEMÁTICA DEL PROYECTO
 
-Partiendo de un conjunto de datos sin depurar, llegar a obtener conclusiones de los mismos mediante el uso de gráficos, medidas de posición y dispersión.
+Partiendo de un conjunto de datos sin depurar, llegar a obtener conclusiones de los mismos mediante el uso de gráficos, medidas de posición y dispersión. Usando distintas herramientas aprendidas en clases.
 
 ---
 
